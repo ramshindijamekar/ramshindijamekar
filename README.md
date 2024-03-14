@@ -37,6 +37,4 @@ I have a passion for stargazing and identifying constellations in the night sky!
 
 ---
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ramshindijamekar/ramshindijamekar/)
-
 
