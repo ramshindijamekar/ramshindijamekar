@@ -31,5 +31,8 @@ I have a passion for stargazing and identifying constellations in the night sky!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: brightness(0) invert(1);'>](https://github.com/ramshindijamekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: brightness(0) invert(1);'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ram-shindijamekar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: brightness(0) invert(1);'>](https://ramshindijamekar.github.io/)
 
+---
+
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?ramshindijamekar=anuraghazra&show_icons=true)
 
 
