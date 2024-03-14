@@ -18,7 +18,7 @@ Skills: Python / Machine Learning / Data Analytics / SQL / MLOps
 
 
 💻 Tech Stack:
-
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' height='40' style='filter: brightness(0) invert(1);'>](https://www.python.org/)
 
 
 
