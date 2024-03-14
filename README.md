@@ -8,6 +8,8 @@ Hello, I'm Ram from India, a recent graduate deeply passionate about machine lea
 
 Skills: Python / Machine Learning / Data Analytics / SQL / MLOps / Docker / Power BI / Git
 
+---
+
 ##### 🔭 I’m currently working on:
 I’m currently working on Actively pursuing ML and data analytics endeavors 
 
@@ -19,6 +21,8 @@ I’m looking to collaborate on ML and data projects
 
 ##### ⚡ Fun fact:
 I have a passion for stargazing and identifying constellations in the night sky! 
+
+---
 
 ####  Connect with Me
 
