@@ -6,7 +6,6 @@ Hello, I'm Ram from India, a recent graduate deeply passionate about machine lea
 
 Skills: Python / Machine Learning / Data Analytics / SQL / MLOps
 
-- 🔭 I’m currently working on this page. 
 
 
 
