@@ -3,8 +3,11 @@
 ###  I'm Ram Shindijamekar
 #### Machine Learning and Development
 
+<!-- Invisible Gap -->
 
 Hello, I'm Ram from India, a recent graduate deeply passionate about machine learning and development. I've dedicated myself to mastering the intricacies of machine learning algorithms and data analytics techniques, driven by a curiosity to leverage data for meaningful insights and innovation. I'm eager to apply my skills and collaborate on challenging projects. With adaptability and a drive for learning, I thrive in creative, collaborative environments.
+
+<!-- Invisible Gap -->
 
 Skills: Python / Machine Learning / Data Analytics / SQL / MLOps / Docker / Power BI / Git
 
