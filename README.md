@@ -7,10 +7,17 @@ Hello, I'm Ram from India, a recent graduate deeply passionate about machine lea
 
 Skills: Python / Machine Learning / Data Analytics / SQL / MLOps / Docker / Power BI / Git
 
-- 🔭 I’m currently working on Actively pursuing ML and data analytics endeavors 
-- 🌱 I’m currently learning Presently, my focus is on deep learning, setting the stage for my foray into generative AI. 
-- 👯 I’m looking to collaborate on ML and data projects 
-- ⚡ Fun fact: I have a passion for stargazing and identifying constellations in the night sky! 
+##### 🔭 I’m currently working on:
+I’m currently working on Actively pursuing ML and data analytics endeavors 
+
+##### 🌱 I’m currently learning:
+I’m currently learning Presently, my focus is on deep learning, setting the stage for my foray into generative AI. 
+
+##### 👯 I’m looking to collaborate on:
+I’m looking to collaborate on ML and data projects 
+
+##### ⚡ Fun fact:
+I have a passion for stargazing and identifying constellations in the night sky! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: brightness(0) invert(1);'>](https://github.com/ramshindijamekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: brightness(0) invert(1);'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ram-shindijamekar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: brightness(0) invert(1);'>](https://ramshindijamekar.github.io/)
