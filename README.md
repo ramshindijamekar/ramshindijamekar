@@ -33,6 +33,6 @@ I have a passion for stargazing and identifying constellations in the night sky!
 
 ---
 
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?ramshindijamekar=anuraghazra&show_icons=true)
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramshindijamekar&show_icons=true)
 
 
