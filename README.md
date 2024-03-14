@@ -1,3 +1,4 @@
+
 ### Hi there 👋, 
 ###  I'm Ram Shindijamekar
 #### Machine Learning and Development
@@ -19,6 +20,7 @@ I’m looking to collaborate on ML and data projects
 ##### ⚡ Fun fact:
 I have a passion for stargazing and identifying constellations in the night sky! 
 
+####  Connect with Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: brightness(0) invert(1);'>](https://github.com/ramshindijamekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: brightness(0) invert(1);'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ram-shindijamekar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: brightness(0) invert(1);'>](https://ramshindijamekar.github.io/)
 
