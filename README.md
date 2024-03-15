@@ -17,7 +17,7 @@ Skills: Python / Machine Learning / Data Analytics / SQL / MLOps / Docker / Powe
 I’m currently working on Actively pursuing ML and data analytics endeavors 
 
 ##### 🌱 I’m currently learning:
-I’m currently learning Presently, my focus is on deep learning, setting the stage for my foray into generative AI. 
+Presently, my focus is on deep learning, setting the stage for my foray into generative AI. 
 
 ##### 👯 I’m looking to collaborate on:
 I’m looking to collaborate on ML and data projects 
