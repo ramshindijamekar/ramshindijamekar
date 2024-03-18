@@ -19,8 +19,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/r_shindijamekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_shindijamekar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ram-shindijamekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ram-shindijamekar" height="30" width="40" /></a>
+  <a href="https://twitter.com/r_shindijamekar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_shindijamekar" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ram-shindijamekar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ram-shindijamekar" height="30" width="40" />
+  </a>
+  <a href="https://github.com/ramshindijamekar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ramshindijamekar" height="30" width="40" />
+  </a>
+  <a href="https://ramshindijamekar.github.io/" target="_blank">
+    Portfolio Website
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
