@@ -29,9 +29,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ramshindijamekar" height="30" width="40" />
   </a>
   <a href="https://ramshindijamekar.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="ramshindijamekar" height="30" width="30" />
+    Portfolio Website
   </a>
 </p>
+
 
 
 
