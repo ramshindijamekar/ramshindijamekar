@@ -16,6 +16,8 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12sHUozOVLygy7A5FCrdVE0B4HBsiZ0Sk/view?usp=sharing).
 
 - ⚡ Fun fact **I have a passion for stargazing and identifying constellations in the night sky!**
+  
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +35,7 @@
   </a>
 </p>
 
-
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,5 +81,7 @@
   </a>
 </p>
 
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramshindijamekar&show_icons=true&locale=en&layout=compact" alt="ramshindijamekar" /></p>
