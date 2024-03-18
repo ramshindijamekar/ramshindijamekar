@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shindijamekar.1101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12sHUozOVLygy7A5FCrdVE0B4HBsiZ0Sk/view?usp=sharing](https://drive.google.com/file/d/12sHUozOVLygy7A5FCrdVE0B4HBsiZ0Sk/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12sHUozOVLygy7A5FCrdVE0B4HBsiZ0Sk/view?usp=sharing).
 
 - ⚡ Fun fact **I have a passion for stargazing and identifying constellations in the night sky!**
 
