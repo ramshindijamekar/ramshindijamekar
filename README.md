@@ -1,42 +1,23 @@
+<h1 align="center">Hi 👋, I'm Ram Shindijamekar</h1>
+<h3 align="center">Machine Learning and Development</h3>
 
-### Hi there 👋, 
-###  I'm Ram Shindijamekar
-#### Machine Learning and Development
+- 🔭 I’m currently working on **Actively pursuing ML and data analytics endeavors**
 
-<!-- Invisible Gap -->
+- 🌱 I’m currently learning **Presently, my focus is on deep learning, setting the stage for my foray into generative AI.**
 
-Hello, I'm Ram from India, a recent graduate deeply passionate about machine learning and development. I've dedicated myself to mastering the intricacies of machine learning algorithms and data analytics techniques, driven by a curiosity to leverage data for meaningful insights and innovation. I'm eager to apply my skills and collaborate on challenging projects. With adaptability and a drive for learning, I thrive in creative, collaborative environments.
+- 👯 I’m looking to collaborate on **ML and data projects**
 
----
+- 👨‍💻 All of my projects are available at [https://ramshindijamekar.github.io/](https://ramshindijamekar.github.io/)
 
-Skills: Python / Machine Learning / Data Analytics / SQL / MLOps / Docker / Power BI / Git
+- ⚡ Fun fact **I have a passion for stargazing and identifying constellations in the night sky!**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/r_shindijamekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_shindijamekar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ram-shindijamekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ram-shindijamekar" height="30" width="40" /></a>
+</p>
 
-##### 🔭 I’m currently working on:
-I’m currently working on Actively pursuing ML and data analytics endeavors 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-##### 🌱 I’m currently learning:
-Presently, my focus is on deep learning, setting the stage for my foray into generative AI. 
-
-##### 👯 I’m looking to collaborate on:
-I’m looking to collaborate on ML and data projects 
-
-##### ⚡ Fun fact:
-I have a passion for stargazing and identifying constellations in the night sky! 
-
----
-
-####  Connect with Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: brightness(0) invert(1);'>](https://github.com/ramshindijamekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: brightness(0) invert(1);'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ram-shindijamekar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: brightness(0) invert(1);'>](https://ramshindijamekar.github.io/)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramshindijamekar&size_weight=0.5&count_weight=0.5)
-
----
-
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramshindijamekar&show_icons=true&locale=en&layout=compact" alt="ramshindijamekar" /></p>
