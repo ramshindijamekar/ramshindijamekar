@@ -12,6 +12,8 @@
 - 💬 Ask me about **Data Analytics and Machine Learning**
 
 - 📫 How to reach me **shindijamekar.1101@gmail.com**
+  
+- 💻 Check my website [here](https://ramshindijamekar.github.io/)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12sHUozOVLygy7A5FCrdVE0B4HBsiZ0Sk/view?usp=sharing).
 
