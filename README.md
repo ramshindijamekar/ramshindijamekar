@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML and data projects.**
 
-- 👨‍💻 All of my projects are available at [https://ramshindijamekar.github.io/](https://ramshindijamekar.github.io/)
+- 👨‍💻 All of my projects are available at [https://ramshindijamekar.vercel.app/](https://ramshindijamekar.vercel.app/)
 
 - 💬 Ask me about **Data Analytics and Machine Learning**
 
