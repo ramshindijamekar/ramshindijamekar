@@ -44,7 +44,7 @@ End-to-end system to track tennis players and ball positions using YOLOv8 and cu
 **Farm Field Segmentation using SAM**  
 Computer vision system to detect and outline field boundaries from satellite images. Built with Meta's SAM model and integrated into Leaflet maps with Flask backend.
 
-**Compliance Dashboard for Agriculture**  
+**Automated Compliance Reports Generation**  
 ETL pipeline and reporting platform that ingests multilingual farmer data, validates responses, and generates compliance reports using Flask and jsPDF.
 
 More at: [https://ramshindijamekar.vercel.app](https://ramshindijamekar.vercel.app)
@@ -56,18 +56,9 @@ More at: [https://ramshindijamekar.vercel.app](https://ramshindijamekar.vercel.a
 - Email: shindijamekar.1101@gmail.com
 - LinkedIn: [linkedin.com/in/ram-shindijamekar](https://linkedin.com/in/ram-shindijamekar)
 - GitHub: [github.com/ramshindijamekar](https://github.com/ramshindijamekar)
-- Resume: [View on Google Drive](https://drive.google.com/file/d/12sHUozOVLygy7A5FCrdVE0B4HBsiZ0Sk/view?usp=sharing)
+- Resume: [View on Google Drive](https://drive.google.com/file/d/1j70MKUkLseznntIsLiFpa1737dUEHpjn/view?usp=sharing)
+  
 
----
 
-## GitHub Overview
 
-```
-Top Languages     GitHub Stats
----------------   -----------------------------
-Python             • Total Contributions: 1000+
-JavaScript         • Top Projects: AI/ML + CV/NLP
-Jupyter Notebook   • Private Projects: Yes
-```
-
-Visit [ramshindijamekar.github.io](https://ramshindijamekar.github.io) for additional demos and repositories.
+Visit [ramshindijamekar.github.io]([https://ramshindijamekar.github.io](https://ramshindijamekar.vercel.app)) for additional demos and repositories.
